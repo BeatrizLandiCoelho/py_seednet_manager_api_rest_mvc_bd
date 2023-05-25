@@ -25,5 +25,4 @@ pycparser==2.21
 python-engineio==4.4.1
 python-socketio==5.8.0
 uvicorn==0.22.0
-verify-email==2.4.3
-Werkzeug==2.3.4
+
